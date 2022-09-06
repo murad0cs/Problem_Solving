@@ -6,7 +6,7 @@ value. Now you have to find the index of two pair values by (target value ==
 sum of two pair values).
 Example:
 def get_aspected_index(two_pair_values, target_value):
-# write your code here
+
 two_pair_values = [
 [1, 5],
 [9, -7],
